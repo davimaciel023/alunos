@@ -1,0 +1,141 @@
+{
+  "aluno": [
+    null,
+    {
+      "email": "renato@gmail.com",
+      "endereco": {
+        "cep": "45637999",
+        "cidade": "boa viagem",
+        "estado": "ceara",
+        "logradouro": "jose candido",
+        "numero": "3",
+        "pais": "brasil"
+      },
+      "ira": "8.5",
+      "nome": "Renato",
+      "telefone": "(99)763928692"
+    },
+    {
+      "email": "davi@gmail.com",
+      "endereco": {
+        "cep": "76456333",
+        "cidade": "juazeiro do norte",
+        "logradouro": "rua são francisco",
+        "numero": "3",
+        "pais": "1"
+      },
+      "ira": "9.3",
+      "nome": "Davi",
+      "telefone": "(45)9847656"
+    },
+    {
+      "email": "jose@gmail.com",
+      "endereco": {
+        "cep": "537462193",
+        "cidade": "caninde",
+        "estado": "amazonas",
+        "logradouro": "rua santos cosme",
+        "numero": "234",
+        "pais": "brasil"
+      },
+      "ira": "7.8",
+      "nome": "josé",
+      "telefone": "(77)5342642"
+    },
+    {
+      "email": "joao@gmail.com",
+      "endereco": {
+        "cep": "32456345",
+        "cidade": "natal",
+        "estado": "para",
+        "logradouro": "rua jose",
+        "numero": "21",
+        "pais": "brasil"
+      },
+      "ira": "5.3",
+      "nome": "joão",
+      "telefone": "(43)2532423"
+    },
+    {
+      "email": "antonio@gmail.com",
+      "endereco": {
+        "cep": "56173264",
+        "cidade": "quixada",
+        "estado": "RJ",
+        "logradouro": "zona rural",
+        "numero": "24",
+        "pais": "brasil"
+      },
+      "ira": "5.3",
+      "nome": "antonio",
+      "telefone": "(34)28635817"
+    },
+    {
+      "email": "gustavo@gmail.com",
+      "endereco": {
+        "cep": "22542511",
+        "cidade": "de deus",
+        "estado": "goiais",
+        "logradouro": "zona rural",
+        "numero": "112",
+        "pais": "brasil"
+      },
+      "ira": "4.2",
+      "nome": "gustavo",
+      "telefone": "(23)387428"
+    },
+    {
+      "email": "maria@gmail.com",
+      "endereco": {
+        "cidade": "quixeramobim",
+        "estado": "ceara",
+        "logradouro": "rua cabral",
+        "numero": "0",
+        "pais": "brasil"
+      },
+      "ira": "6.6",
+      "nome": "maria",
+      "telefone": "(63)2736123"
+    },
+    {
+      "email": "jonas@gmail.com",
+      "endereco": {
+        "cep": "6872163",
+        "cidade": "sobral",
+        "estado": "ceara",
+        "numero": "2",
+        "pais": "brasil"
+      },
+      "ira": "8.6",
+      "nome": "jonas",
+      "telefone": "(53)8276481"
+    },
+    {
+      "email": "ian@gmail.com",
+      "endereco": {
+        "cep": "8714812",
+        "cidade": "galinha preta",
+        "estado": "ceara",
+        "lograouro": "zona rural",
+        "numero": "4",
+        "pais": "brasil"
+      },
+      "ira": "9.9",
+      "nome": "ian",
+      "telefone": "(43)29849132"
+    },
+    {
+      "email": "kaua@gmail.com",
+      "endereco": {
+        "cidade": "fortaleza",
+        "estado": "ceara",
+        "logradouro": "zona rural",
+        "numero": "12",
+        "pais": "brasil"
+      },
+      "ira": "10",
+      "nome": "kaua",
+      "telefone": "(67)2394872"
+    }
+  ]
+}
