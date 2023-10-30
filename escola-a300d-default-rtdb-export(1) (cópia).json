@@ -137,5 +137,164 @@
       "nome": "kaua",
       "telefone": "(67)2394872"
     }
+  ],
+  "cursos": [
+    null,
+    {
+      "id_professores": 1,
+      "ids_disciplina": 1,
+      "nome": "redes de computadores"
+    },
+    {
+      "id_professores": 2,
+      "ids_disciplina": 2,
+      "nome": "agropecuaria"
+    },
+    {
+      "id_professores": 3,
+      "ids_disciplina": 3,
+      "nome": "quimica"
+    },
+    {
+      "id_professores": 4,
+      "ids_disciplina": 4,
+      "nome": "zootecnia"
+    },
+    {
+      "id_professores": 5,
+      "ids_disciplina": 5,
+      "nome": "administracao"
+    },
+    {
+      "id_professores": 6,
+      "ids_disciplina": 6,
+      "nome": "enfermagem"
+    },
+    {
+      "id_pofessores": 7,
+      "ids_disciplina": 7,
+      "nome": "robotica"
+    },
+    {
+      "id_professores": 8,
+      "ids_disciplina": 8,
+      "nome": "logistica"
+    },
+    {
+      "id_professores": 9,
+      "ids_disciplina": 9,
+      "nome": "ads"
+    },
+    {
+      "id_Professores": 10,
+      "ids_disciplina": 10,
+      "nome": "mecanica em administracao"
+    }
+  ],
+  "disciplina": [
+    null,
+    {
+      "CH": "80",
+      "nome": "portugues"
+    },
+    {
+      "CH": "40",
+      "nome": "ingles"
+    },
+    {
+      "CH": "40",
+      "nome": "artes"
+    },
+    {
+      "CH": "120",
+      "nome": "educacao fisica"
+    },
+    {
+      "CH": "80",
+      "nome": "matematica"
+    },
+    {
+      "CH": "80",
+      "nome": "musica"
+    },
+    {
+      "CH": "120",
+      "nome": "programacao"
+    },
+    {
+      "CH": "80",
+      "nome": "biologia"
+    },
+    {
+      "CH": "40",
+      "nome": "fisica"
+    },
+    {
+      "CH": "80",
+      "nome": "servidores"
+    }
+  ],
+  "professores": [
+    null,
+    {
+      "email": "jose@gmail.com",
+      "formacao": "educacao fisica",
+      "nome": "jose",
+      "telefone": "9999999999"
+    },
+    {
+      "email": "ana@gmail.com",
+      "formacao": "pedagogia",
+      "nome": "ana",
+      "telefone": "11111111"
+    },
+    {
+      "email": "joao@gmail.com",
+      "formacao": "artes",
+      "nome": "joao",
+      "telefone": "22222222"
+    },
+    {
+      "email": "davi@gmail.com",
+      "formacao": "musica",
+      "nome": "davi",
+      "telefone": "33333333"
+    },
+    {
+      "email": "renato@gmail.com",
+      "formacao": "educacao fisica",
+      "nome": "renato",
+      "telefone": "444444444"
+    },
+    {
+      "email": "raquel",
+      "formacao": "programacao",
+      "nome": "raquel",
+      "telefone": "55555555"
+    },
+    {
+      "email": "eliana@gmail.com",
+      "formacao": "filosofia",
+      "nome": "eliana",
+      "telefone": "66666666"
+    },
+    {
+      "email": "tales",
+      "formacao": "tales@gmail.com",
+      "nome": "biologia",
+      "telefone": "7777777"
+    },
+    {
+      "email": "ian@gmail.com",
+      "formacao": "historia",
+      "nome": "ian",
+      "telefone": "8888888"
+    },
+    {
+      "email": "breno@gmail.com",
+      "formacao": "matematica",
+      "nome": "breno",
+      "telefone": "9999999999"
+    }
   ]
 }
